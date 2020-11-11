@@ -1,0 +1,19 @@
+#home{
+    background: #E5E5E5;
+}
+
+#nav-principal {
+    font-weight: 600;
+}
+
+#windows:hover {
+    transition: 0.8s;
+}
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
